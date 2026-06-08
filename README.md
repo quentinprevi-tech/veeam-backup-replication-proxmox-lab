@@ -142,17 +142,41 @@ After these changes, the worker test completed successfully.
 
 ## Screenshots
 
-| Screenshot | Description |
-|---|---|
-| 01-veeam-proxmox-inventory.png | Proxmox inventory detected in Veeam |
-| 02-veeam-proxmox-worker.png | Veeam worker test successful |
-| 03-veeam-refs-repository.png | Dedicated ReFS backup repository |
-| 04-debian-web01-backup-success.png | Successful Debian VM backup job |
-| 05-web01-restore-success.png | Successful full VM restore session |
-| 06-proxmox-restored-vm-visible.png | Restored VM visible in Proxmox |
-| 07-restored-vm-ip-confirmed.png | Restored VM IP confirmed |
-| 08-restored-nginx-page-accessible.png | Restored Nginx web page accessible |
-| 09-opnsense-veeam-worker-firewall-rules.png | OPNsense firewall rules for Veeam |
+### Proxmox inventory detected in Veeam
+
+![Proxmox inventory](screenshots/01-veeam-proxmox-inventory.png)
+
+### Veeam worker test successful
+
+![Veeam worker](screenshots/02-veeam-proxmox-worker.png)
+
+### Dedicated ReFS repository
+
+![ReFS repository](screenshots/03-veeam-refs-repository.png)
+
+### Backup job success
+
+![Backup success](screenshots/04-debian-web01-backup-success.png)
+
+### Restore session success
+
+![Restore success](screenshots/05-web01-restore-success.png)
+
+### Restored VM visible in Proxmox
+
+![Restored VM](screenshots/06-proxmox-restored-vm-visible.png)
+
+### Restored VM IP confirmed
+
+![Restored VM IP](screenshots/07-restored-vm-ip-confirmed.png)
+
+### Restored Nginx page accessible
+
+![Restored Nginx page](screenshots/08-restored-nginx-page-accessible.png)
+
+### OPNsense firewall rules
+
+![OPNsense firewall rules](screenshots/09-opnsense-veeam-worker-firewall-rules.png)
 
 ## Skills Demonstrated
 
