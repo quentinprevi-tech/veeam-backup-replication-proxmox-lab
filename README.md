@@ -178,6 +178,15 @@ After these changes, the worker test completed successfully.
 
 ![OPNsense firewall rules](screenshots/09-opnsense-veeam-worker-firewall-rules.png)
 
+## Documentation
+
+- [Architecture](docs/architecture.md)
+- [Installation](docs/installation.md)
+- [Firewall Rules](docs/firewall-rules.md)
+- [Backup Job](docs/backup-job.md)
+- [Restore Test](docs/restore-test.md)
+- [Proxmox Worker Troubleshooting](docs/proxmox-worker-troubleshooting.md)
+
 ## Skills Demonstrated
 
 - Veeam Backup & Replication installation and configuration
